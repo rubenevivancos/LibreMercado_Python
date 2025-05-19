@@ -1,1 +1,3 @@
 # LibreMercado_Python
+
+PROXIMAMENTE
